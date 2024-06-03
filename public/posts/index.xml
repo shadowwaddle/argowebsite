@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Argo Robotics</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Argo Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Februrary Report</title>
+      <link>//localhost:1313/posts/february/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/february/</guid>
+      <description>February Team Meetings Recap: Progress and Milestones # February has been a month of significant strides for our team, with four productive meetings marking our journey towards our goals.</description>
+      
+    </item>
+    
+    <item>
+      <title>March Report</title>
+      <link>//localhost:1313/posts/march/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/march/</guid>
+      <description>March Team Meetings Recap: Advancing Our Goals # March has been a productive month filled with significant progress in our workshops, sponsorship outreach, and team building efforts.</description>
+      
+    </item>
+    
+    <item>
+      <title>April Report</title>
+      <link>//localhost:1313/posts/april/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/april/</guid>
+      <description>April Team Meetings Recap: Progress and New Initiatives # April has been a dynamic month for our team, characterized by a mix of technical learning, application preparation, and continued development of our online courses.</description>
+      
+    </item>
+    
+    <item>
+      <title>May Report</title>
+      <link>//localhost:1313/posts/may/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/may/</guid>
+      <description>May Team Meetings Recap: Hardware, Courses, and New Beginnings # May has been a month of hardware planning, technical practice, and further development of our WAAW course.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

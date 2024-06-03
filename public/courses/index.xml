@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Argo Robotics</title>
+    <link>//localhost:1313/courses/</link>
+    <description>Recent content in Courses on Argo Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WAAW - Computer Architecture</title>
+      <link>//localhost:1313/courses/waaw-computer-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/courses/waaw-computer-architecture/</guid>
+      <description>Welcome to the third and final unit of our 12-week online course, in collaboration with the Waaw Foundation!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/courses/waaw-computer-architecture/featured.png" />
+    </item>
+    
+    <item>
+      <title>WAAW - AI</title>
+      <link>//localhost:1313/courses/waaw-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/courses/waaw-ai/</guid>
+      <description>Welcome to the second unit of our 12-week online course, presented in partnership with the Waaw Foundation!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/courses/waaw-ai/featured.png" />
+    </item>
+    
+    <item>
+      <title>WAAW - Python</title>
+      <link>//localhost:1313/courses/waaw-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/courses/waaw-python/</guid>
+      <description>Welcome to the first unit of our 12-week online course, hosted in collaboration with the Waaw Foundation!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/courses/waaw-python/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
