@@ -25,7 +25,8 @@ concurrency:
 # Default to bash
 defaults:
   run:
-    shell: bas
+    shell: bash
+
 jobs:
   # Build job
   build:
