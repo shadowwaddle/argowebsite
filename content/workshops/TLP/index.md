@@ -18,7 +18,12 @@ The challenge presented to the students was to build a structure out of marshmal
 
 As the workshop progressed, the room buzzed with excitement and determination. Students eagerly collaborated, brainstorming innovative designs and experimenting with different construction techniques. Parents watched with pride as their children demonstrated impressive problem-solving skills and an unwavering commitment to the task at hand.
 
-{{< carousel images="{1.png, 2.png, 3.png, 4.png, 5.png}" >}}
+{{< gallery >}}
+  <img src="gallery/1.png" class="grid-w50" />
+  <img src="gallery/2.png" class="grid-w50" />
+  <img src="gallery/3.png" class="grid-w50" />
+  <img src="gallery/4.png" class="grid-w50" />
+{{< /gallery >}}
 
 #### Innovative Solutions
 
@@ -28,6 +33,10 @@ One of the highlights of the workshop was witnessing the unique and creative sol
 
 Throughout the challenge, our instructors provided guidance and support, explaining fundamental engineering concepts in a way that was accessible and engaging for young learners. We emphasized the importance of trial and error, encouraging students to learn from their mistakes and iterate on their designs to achieve the best possible outcome.
 
+{{< gallery >}}
+  <img src="gallery/9.png" class="grid-w50" />
+  <img src="gallery/10.png" class="grid-w50" />
+{{< /gallery >}}
 
 #### Facing the "Big Bad Wolf"
 
@@ -38,8 +47,12 @@ The moment of truth arrived when each team's structure faced the "big bad wolf"â
 
 The engagement and creativity displayed by the students were truly inspiring. They tackled the challenge with innovative thinking and teamwork, embodying the spirit of future engineers. The workshop not only provided a valuable learning experience but also fostered a sense of community and collaboration among participants and their families.
 
-{{< carousel images="{6.png, 7.png, 8.png, 9.png, 10.png}" >}}
-
+{{< gallery >}}
+  <img src="gallery/5.png" class="grid-w50" />
+  <img src="gallery/6.png" class="grid-w50" />
+  <img src="gallery/7.png" class="grid-w50" />
+  <img src="gallery/8.png" class="grid-w50" />
+{{< /gallery >}}
 #### Community and Collaboration
 
 We are incredibly proud of all the participants and grateful to the Central Park Library for hosting our event. The success of this workshop marks the beginning of many more educational and fun-filled activities to come. At Argo Robotics, we remain committed to inspiring the next generation of engineers and innovators through hands-on learning and community engagement.
