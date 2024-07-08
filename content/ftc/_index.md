@@ -7,7 +7,7 @@ description: "This is the about page for describing what FTC is."
 
 The FIRST Tech Challenge is a unique and inclusive platform that warmly welcomes participants from all skill levels, whether technical or non-technical. It creates a nurturing space where both students and adults can contribute their existing talents, ranging from coding and electronics to metalworking, graphic design, web creation, and even public speaking and videography. This diverse skill set is not just encouraged but is seen as a cornerstone of the challenge. Adult coaches play a pivotal role in this ecosystem, guiding students not only to enhance their skills but also to build confidence within a supportive and inclusive environment. This approach ensures that everyone, regardless of their background, has the opportunity to grow, learn, and contribute in meaningful ways.
 
-Check out [the First Inpires website](https://www.firstinspires.org/robotics/ftc) for more information!
+Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc) for more information!
 
 ---
 

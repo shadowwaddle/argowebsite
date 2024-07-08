@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Februrary Report</title>
       <link>//localhost:1313/posts/february/</link>
@@ -116,6 +116,16 @@
       <guid>//localhost:1313/about/alva/</guid>
       <description>Alva loves trying and learning new things whenever she can.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/alva/featured.png" />
+    </item>
+    
+    <item>
+      <title>June Report</title>
+      <link>//localhost:1313/posts/june/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/june/</guid>
+      <description>Argo rest month # Vacation!</description>
+      
     </item>
     
     <item>
