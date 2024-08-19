@@ -62,6 +62,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/posts/june/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/about/alex/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -108,24 +114,30 @@
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/workshops/tlp/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/workshops/marble-mastermind/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/workshops/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/workshops/tlp/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

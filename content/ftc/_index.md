@@ -12,3 +12,15 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 ---
 
 # Stay tuned for updates on our robot for the 24-25 season!
+
+---
+
+# Iteration 1:
+
+## The Chassis
+
+<model-viewer src="chassis.gltf" alt="3D model"
+              auto-rotate camera-controls
+              style="width: 100%; height: 400px;">
+</model-viewer>
+

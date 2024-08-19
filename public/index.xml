@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Februrary Report</title>
       <link>//localhost:1313/posts/february/</link>
@@ -216,6 +216,16 @@
       <guid>//localhost:1313/about/preston/</guid>
       <description>Preston enjoys playing soccer and violin in his free time, and loves spending time with his family and friends.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/preston/featured.png" />
+    </item>
+    
+    <item>
+      <title>Marble Mastermind</title>
+      <link>//localhost:1313/workshops/marble-mastermind/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/workshops/marble-mastermind/</guid>
+      <description>Marble Mastermind Workshop Recap at Central Park Library # Our Argo outreach team was excited to return to Central Park Library for another enriching and hands-on workshop!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/workshops/marble-mastermind/featured.png" />
     </item>
     
     <item>
