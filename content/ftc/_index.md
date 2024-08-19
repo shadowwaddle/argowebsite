@@ -21,6 +21,6 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 
 <model-viewer src="chassis.gltf" alt="3D model"
               auto-rotate camera-controls
-              style="width: 100%; height: 400px;">
+              style="width: 100%; height: 600px;">
 </model-viewer>
 
