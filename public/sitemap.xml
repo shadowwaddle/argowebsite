@@ -14,11 +14,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/courses/waaw-computer-architecture/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/posts/march/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -35,18 +30,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/courses/waaw-ai/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/posts/april/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/courses/waaw-python/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -78,7 +63,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/posts/july/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/about/anushree/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/august/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/september/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -114,7 +117,13 @@
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -131,14 +140,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/workshops/tlp/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/workshops/tlp/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/waaw-2024/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -19,7 +19,7 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 
 ## The Chassis
 
-<model-viewer src="chassis.gltf" alt="3D model"
+<model-viewer src="chassis.gltf" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               style="width: 100%; height: 600px;">
 </model-viewer>

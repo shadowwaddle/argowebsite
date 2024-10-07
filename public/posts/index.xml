@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Februrary Report</title>
       <link>//localhost:1313/posts/february/</link>
@@ -55,6 +55,36 @@
       
       <guid>//localhost:1313/posts/june/</guid>
       <description>Argo rest month # Vacation!</description>
+      
+    </item>
+    
+    <item>
+      <title>July Report</title>
+      <link>//localhost:1313/posts/july/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/july/</guid>
+      <description>July Team Meetings Recap: Building Momentum and Planning for Workshops # July was an exciting month for Argo Robotics, as we continued to work on our robot, fundraisers, and outreach initiatives.</description>
+      
+    </item>
+    
+    <item>
+      <title>August Report</title>
+      <link>//localhost:1313/posts/august/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/august/</guid>
+      <description>August Team Meetings Recap: Building Our Robot and Beyond # August has been a busy month for Argo Robotics, focusing on robot construction, WAAW certificates, and planning our next workshops.</description>
+      
+    </item>
+    
+    <item>
+      <title>September Report</title>
+      <link>//localhost:1313/posts/september/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/september/</guid>
+      <description>September Team Meetings Recap: From CAD to Coding and Expanding Outreach # September was a month of growth and development for Argo Robotics as we made progress on our robot design, coding, and outreach efforts.</description>
       
     </item>
     
