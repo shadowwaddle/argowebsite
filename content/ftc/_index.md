@@ -19,11 +19,8 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 
 ## The Chassis
 
-<!-- <model-viewer src="chassis.gltf" alt="Iteration 1 3D model"
+<model-viewer src="chassis.gltf" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               style="width: 100%; height: 600px;">
-</model-viewer> -->
-
-  <iframe src="https://cad.onshape.com/documents/3b36eecdb84c7f7f0c64461b/w/1d614bfd93f913c0e6be96a9/e/c4145f97ba462f0297a77f9b" width="100%" height="600px" allowfullscreen></iframe>
-
+</model-viewer>
 
