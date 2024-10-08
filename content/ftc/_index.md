@@ -35,7 +35,7 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               auto-rotate camera-controls
               style="width: 1000px; height: 1000px;">
 </model-viewer>
-<model-viewer src="chassis.glb" alt="Iteration 1 3D model"
+<model-viewer src="chassisbig.glb" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
               camera-target="0m 0m 0m"
@@ -43,7 +43,7 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               style="width:100%; height: 500px;">
 </model-viewer>
 
-<model-viewer src="hello.glb" alt="Iteration 1 3D model"
+<model-viewer src="untitled.glb" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
               camera-target="0m 0m 0m"
