@@ -35,6 +35,11 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               auto-rotate camera-controls
               style="width: 1000px; height: 1000px;">
 </model-viewer>
+<model-viewer src="Chassis-2.gltf" 
+              alt="Test Model"
+              auto-rotate camera-controls
+              style="width: 1000px; height: 1000px;">
+</model-viewer>
 <!-- <model-viewer src="chassisbig.glb" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
@@ -43,13 +48,17 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               style="width:100%; height: 500px;">
 </model-viewer> -->
 
-<model-viewer src="/chassissmall.glb" alt="Iteration 1 3D model"
+<!-- <model-viewer src="/chassissmall.glb" alt="Iteration 1 3D model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
               camera-target="0m 0m 0m"
               field-of-view="45deg"
               style="width:100%; height: 500px;">
-</model-viewer>
+</model-viewer> -->
+
+{{< threejs-viewer model="chassis10.gltf" >}}
+{{< threejs-viewer model="Chassis-2.gltf" >}}
+
 
 
 ### The Pivot
