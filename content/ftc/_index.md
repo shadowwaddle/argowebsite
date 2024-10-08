@@ -30,13 +30,12 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
         - Belt driven: Uses belts to power wheels from motors
         - Mecanum wheels: Allow for robot to strafe side to side
 
-<model-viewer src="chassis.glb" alt="Iteration 1 3D model"
+<model-viewer src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" 
+              alt="Test Model"
               auto-rotate camera-controls
-              camera-orbit="0deg 75deg 2m"
-              camera-target="0m 0m 0m"
-              field-of-view="45deg"
-              style="width:100%; height: 500px;">
+              style="width: 1000px; height: 1000px;">
 </model-viewer>
+
 
 ### The Pivot
     - In Development!
