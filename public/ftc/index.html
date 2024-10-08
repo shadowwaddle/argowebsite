@@ -107,6 +107,11 @@
 
 
 
+
+
+<link rel="stylesheet" href="/lib/lite-youtube-embed/lite-yt-embed.css" integrity=""/>
+<script src="/lib/lite-youtube-embed/lite-yt-embed.js" integrity=""></script>
+
   
   
 
@@ -588,7 +593,16 @@
     class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-chassis">The Chassis</a></li>
+    <li><a href="#game-rules">Game Rules</a></li>
+    <li><a href="#our-robot">Our Robot</a>
+      <ul>
+        <li><a href="#the-chassis">The Chassis</a></li>
+        <li><a href="#the-pivot">The Pivot</a></li>
+        <li><a href="#linear-slide">Linear Slide</a></li>
+        <li><a href="#intake">Intake</a></li>
+        <li><a href="#sensors">Sensors</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
@@ -602,7 +616,16 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-chassis">The Chassis</a></li>
+    <li><a href="#game-rules">Game Rules</a></li>
+    <li><a href="#our-robot">Our Robot</a>
+      <ul>
+        <li><a href="#the-chassis">The Chassis</a></li>
+        <li><a href="#the-pivot">The Pivot</a></li>
+        <li><a href="#linear-slide">Linear Slide</a></li>
+        <li><a href="#intake">Intake</a></li>
+        <li><a href="#sensors">Sensors</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
@@ -660,32 +683,49 @@
 <hr>
 
 
-<h1 class="relative group">Stay tuned for updates on our robot for the 24-25 season! 
-    <div id="stay-tuned-for-updates-on-our-robot-for-the-24-25-season" class="anchor"></div>
+<h1 class="relative group">The 2024-2025 Season Has Officially Started!: 
+    <div id="the-2024-2025-season-has-officially-started" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#stay-tuned-for-updates-on-our-robot-for-the-24-25-season" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#the-2024-2025-season-has-officially-started" aria-label="Anchor">#</a>
     </span>        
     
 </h1>
+
+
+<h2 class="relative group">Game Rules 
+    <div id="game-rules" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#game-rules" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>Here is a video relased by First on this years challenge!</li>
+</ul>
+<lite-youtube videoid="ewlDPvRK4U4" playlabel="ewlDPvRK4U4" params=""></lite-youtube>
+
 <hr>
 
 
-<h1 class="relative group">Iteration 1: 
-    <div id="iteration-1" class="anchor"></div>
+<h2 class="relative group">Our Robot 
+    <div id="our-robot" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iteration-1" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#our-robot" aria-label="Anchor">#</a>
     </span>        
     
-</h1>
+</h2>
 
 
-<h2 class="relative group">The Chassis 
+<h3 class="relative group">The Chassis 
     <div id="the-chassis" class="anchor"></div>
     
     <span
@@ -694,11 +734,76 @@
             style="text-decoration-line: none !important;" href="#the-chassis" aria-label="Anchor">#</a>
     </span>        
     
-</h2>
-<p><model-viewer src="chassis.gltf" alt="Iteration 1 3D model"
+</h3>
+<pre><code>- The base of our robot which will allow for driving around the field
+- Has to be quick yet sturdy to support weight of parts above
+- Key features:
+    - Belt driven: Uses belts to power wheels from motors
+    - Mecanum wheels: Allow for robot to strafe side to side
+</code></pre>
+<p><model-viewer src="chassis1.glb" alt="Iteration 1 3D model"
 auto-rotate camera-controls
-style="width: 100%; height: 600px;">
+camera-orbit="0deg 75deg 2m"
+camera-target="0m 0m 0m"
+field-of-view="45deg"
+style="width:100%; height: 500px;">
 </model-viewer></p>
+
+
+<h3 class="relative group">The Pivot 
+    <div id="the-pivot" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-pivot" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<pre><code>- In Development!
+</code></pre>
+
+
+<h3 class="relative group">Linear Slide 
+    <div id="linear-slide" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#linear-slide" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<pre><code>- In Development!
+</code></pre>
+
+
+<h3 class="relative group">Intake 
+    <div id="intake" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#intake" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<pre><code>- In Development!
+</code></pre>
+
+
+<h3 class="relative group">Sensors 
+    <div id="sensors" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#sensors" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<pre><code>- In Development!
+</code></pre>
 
     </div>
    

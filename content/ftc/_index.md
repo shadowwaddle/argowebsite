@@ -11,16 +11,44 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 
 ---
 
-# Stay tuned for updates on our robot for the 24-25 season!
+# The 2024-2025 Season Has Officially Started!:
+
+## Game Rules
+
+- Here is a video relased by First on this years challenge!
+
+{{< youtubeLite id="ewlDPvRK4U4" label="Blowfish-tools demo" >}}
 
 ---
 
-# Iteration 1:
+## Our Robot
 
-## The Chassis
+### The Chassis
+    - The base of our robot which will allow for driving around the field
+    - Has to be quick yet sturdy to support weight of parts above
+    - Key features:
+        - Belt driven: Uses belts to power wheels from motors
+        - Mecanum wheels: Allow for robot to strafe side to side
 
-<model-viewer src="chassis.gltf" alt="Iteration 1 3D model"
+<model-viewer src="chassis1.glb" alt="Iteration 1 3D model"
               auto-rotate camera-controls
-              style="width: 100%; height: 600px;">
+              camera-orbit="0deg 75deg 2m"
+              camera-target="0m 0m 0m"
+              field-of-view="45deg"
+              style="width:100%; height: 500px;">
 </model-viewer>
+
+### The Pivot
+    - In Development!
+
+### Linear Slide
+    - In Development!
+
+### Intake
+    - In Development!
+
+### Sensors
+    - In Development!
+
+
 
