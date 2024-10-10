@@ -34,17 +34,40 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               alt="Test Model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
-              camera-target="0m 0m 0m"
+              camera-target="0.295m 0m -0.3m"
               field-of-view="20deg"
-              style="width: 1000px; height: 1000px;">         
+              style="width: 750px; height: 750px;">         
 </model-viewer>
 
 ### The Pivot
-    - In Development!
+    - On top of the chassis, allows for changing angle of the slide
+    - Key features:
+        - Chain driven: Uses a motor powered chain on sprocket to power the pivot
+        - Allows for the slide to tilt downward and upwards
+
+<model-viewer src="pivot.glb" 
+              alt="Test Model"
+              auto-rotate camera-controls
+              camera-orbit="0deg 75deg 2m"
+              camera-target="0m 0m 0m"
+              field-of-view="20deg"
+              style="width: 750px; height: 750px;">         
+</model-viewer>
 
 ### Linear Slide
-    - In Development!
+    - Allows for the intake to extend outwards and upwards
+    - Key features:
+        - Gobilda Viper Slide: quick and fast slide
+        - Mounted on U channels - strong and stable
 
+<model-viewer src="slide.glb" 
+              alt="Test Model"
+              auto-rotate camera-controls
+              camera-orbit="0deg 75deg 2m"
+              camera-target="0m 0m 0m"
+              field-of-view="20deg"
+              style="width: 750px; height: 750px;">         
+</model-viewer>
 ### Intake
     - In Development!
 
