@@ -30,7 +30,7 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
         - Belt driven: Uses belts to power wheels from motors
         - Mecanum wheels: Allow for robot to strafe side to side
 
-<model-viewer src="123.glb" 
+<model-viewer src="chassis.glb" 
               alt="Test Model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
