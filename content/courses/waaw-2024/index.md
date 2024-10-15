@@ -41,6 +41,9 @@ The course officially began on April 27, 2024. With around 30 WAAW fellows enrol
 
 {{< carousel images="zoom/*" aspectRatio="16-9" interval="2500" >}}
 
+- Here is a link to a playlist of all our recorded lectures!:
+
+https://www.youtube.com/playlist?list=PLN5lYDdDC0ca4xF0HiReY4I3G9IM0cQGF
 
 
 
@@ -192,6 +195,10 @@ This experience taught us valuable lessons about initiative, planning, and commi
 #### Feedback and Data
 
 To assess our impact, we collected feedback from students and conducted personal interviews. The insights we gained have helped us understand how much the fellows enjoyed and learned from the curriculum. For more detailed feedback, please check our YouTube channel.
+
+- Here is a compilation of intervies from WAAW Coordinator: Toluwani Israel, and students Betty Arthur, Eddicia Benya, Munamato Rusere, Jubille Joseph, and Esther Oyoo.
+
+{{< youtubeLite id="e-vuLMz-wfk&t=1794s" label="Interview Video" >}}
 
 - Here is the data from our google form on feedback!
 
