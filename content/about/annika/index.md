@@ -2,7 +2,7 @@
 title: "Annika - Software Engineer"
 draft: false
 description: "About Annika"
-weight: 6
+weight: 8
 showDate: false
 
 ---

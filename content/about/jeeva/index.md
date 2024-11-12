@@ -2,7 +2,7 @@
 title: "Jeeva - Hardware Lead"
 draft: false
 description: "About Jeeva"
-weight: 14
+weight: 13
 showDate: false
 ---
 

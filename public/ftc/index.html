@@ -592,13 +592,13 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#game-rules">Game Rules</a></li>
-    <li><a href="#our-robot">Our Robot</a>
+    <li><a href="#the-argobot">The Argobot</a>
       <ul>
+        <li><a href="#full-robot">Full Robot</a></li>
         <li><a href="#the-chassis">The Chassis</a></li>
         <li><a href="#the-pivot">The Pivot</a></li>
         <li><a href="#linear-slide">Linear Slide</a></li>
         <li><a href="#intake">Intake</a></li>
-        <li><a href="#sensors">Sensors</a></li>
       </ul>
     </li>
   </ul>
@@ -615,13 +615,13 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#game-rules">Game Rules</a></li>
-    <li><a href="#our-robot">Our Robot</a>
+    <li><a href="#the-argobot">The Argobot</a>
       <ul>
+        <li><a href="#full-robot">Full Robot</a></li>
         <li><a href="#the-chassis">The Chassis</a></li>
         <li><a href="#the-pivot">The Pivot</a></li>
         <li><a href="#linear-slide">Linear Slide</a></li>
         <li><a href="#intake">Intake</a></li>
-        <li><a href="#sensors">Sensors</a></li>
       </ul>
     </li>
   </ul>
@@ -711,16 +711,37 @@
 <hr>
 
 
-<h2 class="relative group">Our Robot 
-    <div id="our-robot" class="anchor"></div>
+<h2 class="relative group">The Argobot 
+    <div id="the-argobot" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#our-robot" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#the-argobot" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
+
+
+<h3 class="relative group">Full Robot 
+    <div id="full-robot" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#full-robot" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<pre><code>- Here is our full robot! Specialized in grabbing species and dropping them off to the high basket.
+</code></pre>
+<p><model-viewer src="fullrobot.glb" 
+alt="Test Model"
+auto-rotate camera-controls
+camera-orbit="0deg 75deg 2m"
+field-of-view="20deg"
+style="width: 750px; height: 750px;">      <br>
+</model-viewer></p>
 
 
 <h3 class="relative group">The Chassis 
@@ -743,7 +764,6 @@
 alt="Test Model"
 auto-rotate camera-controls
 camera-orbit="0deg 75deg 2m"
-camera-target="0.295m 0m -0.3m"
 field-of-view="20deg"
 style="width: 750px; height: 750px;">      <br>
 </model-viewer></p>
@@ -809,22 +829,19 @@ style="width: 750px; height: 750px;">      <br>
     </span>        
     
 </h3>
-<pre><code>- In Development!
+<pre><code>- Allows for active intake of game pieces
+- Key features:
+    - Continous rotation servo for fast intake
+    - Sliced gecko wheels for high friction intake
 </code></pre>
-
-
-<h3 class="relative group">Sensors 
-    <div id="sensors" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#sensors" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<pre><code>- In Development!
-</code></pre>
+<p><model-viewer src="intake.glb" 
+alt="Test Model"
+auto-rotate camera-controls
+camera-orbit="0deg 75deg 2m"
+camera-target="0m 0m 0m"
+field-of-view="20deg"
+style="width: 750px; height: 750px;">      <br>
+</model-viewer></p>
 
     </div>
    

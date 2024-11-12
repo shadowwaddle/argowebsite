@@ -1,8 +1,8 @@
 ---
-title: "Niharika - Hardware Engineer"
+title: "Niharika - Outreach"
 draft: false
 description: "About Niharika"
-weight: 11
+weight: 6
 showDate: false
 ---
 

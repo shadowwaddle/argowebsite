@@ -2,7 +2,7 @@
 title: "Danielle - Hardware Engineer"
 draft: false
 description: "About Danielle"
-weight: 10
+weight: 12
 showDate: false
 ---
 

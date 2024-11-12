@@ -25,11 +25,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/natalie/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/posts/april/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -38,6 +33,11 @@
   <url>
     <loc>//localhost:1313/posts/may/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/anushree/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,12 +53,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/alex/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/about/annika/</loc>
+    <loc>//localhost:1313/about/niharika/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,7 +64,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/anushree/</loc>
+    <loc>//localhost:1313/about/alex/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,18 +75,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/about/annika/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/posts/september/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/about/danielle/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/about/niharika/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -101,12 +91,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/sharvil/</loc>
+    <loc>//localhost:1313/about/seraj/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/danielle/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/about/jeeva/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/natalie/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/sharvil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -117,7 +122,19 @@
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/courses/computer-architecture-club/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/courses/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -129,12 +146,6 @@
   </url>
   <url>
     <loc>//localhost:1313/courses/waaw-2024/</loc>
-    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/courses/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -164,6 +175,11 @@
   </url>
   <url>
     <loc>//localhost:1313/contact/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/dan/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

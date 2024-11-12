@@ -17,11 +17,22 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
 
 - Here is a video relased by First on this years challenge!
 
-{{< youtubeLite id="ewlDPvRK4U4" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="ewlDPvRK4U4" label="Into the Deep Rules" >}}
 
 ---
 
-## Our Robot
+## The Argobot
+
+### Full Robot
+    - Here is our full robot! Specialized in grabbing species and dropping them off to the high basket.
+
+<model-viewer src="fullrobot.glb" 
+              alt="Test Model"
+              auto-rotate camera-controls
+              camera-orbit="0deg 75deg 2m"
+              field-of-view="20deg"
+              style="width: 750px; height: 750px;">         
+</model-viewer>
 
 ### The Chassis
     - The base of our robot which will allow for driving around the field
@@ -34,7 +45,6 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               alt="Test Model"
               auto-rotate camera-controls
               camera-orbit="0deg 75deg 2m"
-              camera-target="0.295m 0m -0.3m"
               field-of-view="20deg"
               style="width: 750px; height: 750px;">         
 </model-viewer>
@@ -68,11 +78,20 @@ Check out [the First Inspire website](https://www.firstinspires.org/robotics/ftc
               field-of-view="20deg"
               style="width: 750px; height: 750px;">         
 </model-viewer>
+
 ### Intake
-    - In Development!
+    - Allows for active intake of game pieces
+    - Key features:
+        - Continous rotation servo for fast intake
+        - Sliced gecko wheels for high friction intake
 
-### Sensors
-    - In Development!
-
+<model-viewer src="intake.glb" 
+              alt="Test Model"
+              auto-rotate camera-controls
+              camera-orbit="0deg 75deg 2m"
+              camera-target="0m 0m 0m"
+              field-of-view="20deg"
+              style="width: 750px; height: 750px;">         
+</model-viewer>
 
 

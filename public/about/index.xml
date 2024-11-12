@@ -15,7 +15,7 @@
       
       <guid>//localhost:1313/about/ben/</guid>
       <description>Ben aspires to one day be a finance and business major in college.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/ben/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/ben/featured.jpg" />
     </item>
     
     <item>
@@ -29,23 +29,33 @@
     </item>
     
     <item>
-      <title>Natalie - Outreach Coordinator</title>
-      <link>//localhost:1313/about/natalie/</link>
+      <title>Anushree - Outreach</title>
+      <link>//localhost:1313/about/anushree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/natalie/</guid>
-      <description>Natalie is a bubbly, compassionate person with a strong thirst for knowledge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/natalie/featured.jpg" />
+      <guid>//localhost:1313/about/anushree/</guid>
+      <description>In her free time, Anushree finds pleasure while playing tennis, painting, and drawing.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/anushree/featured.jpg" />
     </item>
     
     <item>
-      <title>Alva - Publicist</title>
+      <title>Alva - Outreach</title>
       <link>//localhost:1313/about/alva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/alva/</guid>
       <description>Alva loves trying and learning new things whenever she can.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/alva/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/alva/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Niharika - Outreach</title>
+      <link>//localhost:1313/about/niharika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/niharika/</guid>
+      <description>Outside of Argo, Niharika likes playing a multitude of sports and enjoys traveling and learning how to cook and bake new foods.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/niharika/featured.jpg" />
     </item>
     
     <item>
@@ -69,13 +79,23 @@
     </item>
     
     <item>
-      <title>Anushree - Software Engineer</title>
-      <link>//localhost:1313/about/anushree/</link>
+      <title>Sean - Hardware Engineer</title>
+      <link>//localhost:1313/about/sean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/anushree/</guid>
-      <description>In her free time, Anushree finds pleasure while playing tennis, painting, and drawing.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/anushree/featured.png" />
+      <guid>//localhost:1313/about/sean/</guid>
+      <description>Sean is an outgoing and fun person who is always trying to help others, and loves making people smile.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/sean/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Seraj - Hardware Engineer</title>
+      <link>//localhost:1313/about/seraj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/seraj/</guid>
+      <description>Seraj is a dedicated swimmer with a keen interest in coding and a passion for aeronautics.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/seraj/featured.jpg" />
     </item>
     
     <item>
@@ -85,37 +105,7 @@
       
       <guid>//localhost:1313/about/danielle/</guid>
       <description>Danielle has a passion for architecture and building, as well as anything and everything art-related.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/danielle/featured.png" />
-    </item>
-    
-    <item>
-      <title>Niharika - Hardware Engineer</title>
-      <link>//localhost:1313/about/niharika/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/about/niharika/</guid>
-      <description>Outside of Argo, Niharika likes playing a multitude of sports and enjoys traveling and learning how to cook and bake new foods.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/niharika/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Sean - Hardware Engineer</title>
-      <link>//localhost:1313/about/sean/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/about/sean/</guid>
-      <description>Sean is an outgoing and fun person who is always trying to help others, and loves making people smile.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/sean/featured.png" />
-    </item>
-    
-    <item>
-      <title>Sharvil - Software Lead</title>
-      <link>//localhost:1313/about/sharvil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/about/sharvil/</guid>
-      <description>Sharvil is an avid programmer and aspiring engineer.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/sharvil/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/danielle/featured.jpg" />
     </item>
     
     <item>
@@ -129,13 +119,43 @@
     </item>
     
     <item>
+      <title>Natalie - Outreach Coordinator</title>
+      <link>//localhost:1313/about/natalie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/natalie/</guid>
+      <description>Natalie is a bubbly, compassionate person with a strong thirst for knowledge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/natalie/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Sharvil - Software Lead</title>
+      <link>//localhost:1313/about/sharvil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/sharvil/</guid>
+      <description>Sharvil is an avid programmer and aspiring engineer.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/sharvil/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Preston - Team Manager</title>
       <link>//localhost:1313/about/preston/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/preston/</guid>
       <description>Preston enjoys playing soccer and violin in his free time, and loves spending time with his family and friends.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/preston/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/preston/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Dan - Mentor</title>
+      <link>//localhost:1313/about/dan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/dan/</guid>
+      <description>Dan loves to help others.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/dan/featured.jpg" />
     </item>
     
   </channel>

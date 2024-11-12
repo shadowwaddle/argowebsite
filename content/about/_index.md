@@ -9,6 +9,9 @@ Argo robotics participates in FTC, also known as FIRST Tech Challenge. A global 
 
 Argo is on a mission that transcends the mere assembly of circuits and gears; we are here to build more than just robots-we are here to construct a vibrant, inclusive community. Our ambition stretches beyond the competition arena, aiming to empower, educate, and inspire. With a roster of fourteen enthusiastic high school members at its core, Team Argo is committed to holding workshops and courses that open the fascinating world of robotics to everyone in our community.
 
+<img src="pictures/group.jpg"/>
+
+
 
 ---
 

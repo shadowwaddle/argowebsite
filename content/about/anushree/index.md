@@ -1,8 +1,8 @@
 ---
-title: "Anushree - Software Engineer"
+title: "Anushree - Outreach"
 draft: false
 description: "About Anushree"
-weight: 7
+weight: 4
 showDate: false
 ---
 
